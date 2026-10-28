@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find Freelance Work"
+  short_description: "Find and assess freelance opportunities without the guesswork"
+  default_prompt: "Help me find freelance work that fits my skills, availability and target pay."
