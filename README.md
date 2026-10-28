@@ -1,41 +1,54 @@
 # How Do I Find Freelance Work?
 
-A **free, open-source AI agent skill** that helps people work out where to look for freelance projects and whether particular opportunities suit their skills, availability and earning goals.
+**Free AI skill to help you assess freelance jobs and make a sensible search plan.**
 
-## Start here
+**[See an illustrated example](examples/fictional-project-review.md)** | **[Read the skill instructions](SKILL.md)**
 
-Install the bundled skill into an AI agent that supports `SKILL.md` skills, then ask:
+> **Important:** This is an AI *skill*, not a standalone app or job-search website. Its usable functionality comes from a compatible AI agent following the instructions in `SKILL.md`. It has no independent search engine, dashboard, access to private marketplaces or guaranteed job feed.
 
-> Help me find freelance work. I can build basic WordPress sites and automate spreadsheets. I have ten hours per week and want small remote projects.
+## Try it now
 
-Or paste a project brief:
+**Option 1, easiest: Ask an AI assistant**
 
-> Is this freelance job worth applying for? Here is the listing: [paste brief]
+Copy this into an assistant:
 
-The skill should ask only a few relevant questions and give an honest **APPLY / MAYBE / SKIP / UNVERIFIED** assessment, including risks, uncertainties and practical next steps.
+```text
+Help me find freelance work. Start by asking what I can actually deliver,
+my location, hours per week and minimum pay. Recommend sensible places
+to look. When I paste a project description, tell me APPLY, MAYBE, SKIP
+or UNVERIFIED, with a reason and one practical next step. Don't invent
+open jobs or pretend to browse sites you can't access.
+```
 
-## What it can do
+**Option 2, install the skill:** Download the repository using **Code → Download ZIP** and give `SKILL.md` (plus `agents/openai.yaml`) to a compatible AI agent that supports reusable skills. The dedicated Agensi ZIP is distributed separately, and that is the better route for buyers. Do not assume every chatbot can install skills.
 
-- Assess project descriptions or links supplied by the buyer.
-- Suggest legitimate places to look for freelance work.
-- Where the host supports browsing, search accessible public listings and check original pages.
-- Flag budget, workload, experience, access and client risks.
-- Help draft a short proposal if requested, based only on real experience.
+## What you can actually use it for
 
-## What it cannot promise
+1. Tell it the services you can offer and your limits.
+2. Ask it to suggest legitimate places to look.
+3. Paste an actual job advert or an accessible URL.
+4. Receive a practical **APPLY / MAYBE / SKIP / UNVERIFIED** review of skills, pay, timeline, risks and missing details.
+5. Ask for a short, truthful response to the project, if it fits.
 
-**Live freelance discovery is not reliably available.** Initial feasibility research examined eleven source families and five project records, and found **zero qualified actionable opportunities** for the fictional test profile. Many marketplaces require accounts or restrict automated access. This skill never bypasses platform restrictions, claims it can access private listings, invents live projects or promises paid work.
+The **reliable core is reviewing listings you provide**. Public-web discovery may be attempted where the agent can browse and platform rules permit it, but is not a dependable feature. In a feasibility test of eleven source families and five example records, there were **zero qualified actionable opportunities** for the fictional freelancer. We do not present this as an automated job-finding system.
 
-Browsing requires an agent that supports web search and source inspection. Without browsing, it can still help assess descriptions the user supplies. A normal chat interface that does not support installing skill bundles cannot install this archive directly.
+## Example result
 
-## Download and installation
+See [fictional-project-review.md](examples/fictional-project-review.md). This is a **made-up example of the output format**, not a real vacancy or proof of live operation.
 
-The Agensi distribution archive contains `SKILL.md` and `agents/openai.yaml` at the ZIP root. For a source install, retain the directory layout and follow your AI agent's skill installation method. No Python or other dependencies are required. No marketplace accounts or APIs are bundled.
+## What's in this repository?
 
-## Transparency
+- `SKILL.md`: the operational instructions an AI agent follows
+- `agents/openai.yaml`: descriptive skill metadata
+- `examples/fictional-project-review.md`: a worked example
+- `LICENSE`: MIT open-source licence
 
-Example requests and gallery mock-ups are fictional illustrations, not real project discoveries or screenshots of a verified Agensi session. The free price is not evidence of marketplace demand or installation compatibility. Verify each opportunity, terms and application route before taking action.
+**No executable app, extension, crawler, Python automation or job-feed backend is included.** They were not built and are not implied by this product.
+
+## Privacy and limitations
+
+Do not share private client data, login credentials or confidential employer information. No applications are sent and no accounts are accessed automatically. Browsing, installation and attachment support depend on the AI host. Always verify availability and terms directly.
 
 ## Licence
 
-MIT, see [LICENSE](LICENSE). Source is openly available. Do not include confidential employer, client or personal information when testing or seeking advice.
+MIT, copyright 2026 Shaun Marsden.
