@@ -16,7 +16,7 @@ The quickest way needs no install.
 
    > I've built a few WordPress sites for friends and can spend six hours a week. Is this project worth applying for?
 
-If you'd rather not paste the whole skill, this shorter prompt did just as well in my test ([results](evidence/paste-test/results.md)), and also suggests places to look:
+If you'd rather not paste the whole skill, this shorter prompt matched or beat it in my two tests ([first](evidence/paste-test/results.md), [harder](evidence/harder-test/results.md)). The skill was a little more cautious, sometimes saying MAYBE where the prompt said APPLY. The prompt also suggests places to look:
 
 ```text
 Help me find freelance work. Start by asking what I can actually deliver,

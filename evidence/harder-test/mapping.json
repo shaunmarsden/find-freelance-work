@@ -1,0 +1,92 @@
+{
+ "h282747": {
+  "scenario": "video",
+  "arm": "edited",
+  "run": 2
+ },
+ "h578292": {
+  "scenario": "writer",
+  "arm": "current",
+  "run": 1
+ },
+ "h624575": {
+  "scenario": "video",
+  "arm": "edited",
+  "run": 3
+ },
+ "h401719": {
+  "scenario": "video",
+  "arm": "prompt",
+  "run": 3
+ },
+ "h679621": {
+  "scenario": "writer",
+  "arm": "current",
+  "run": 3
+ },
+ "h299046": {
+  "scenario": "writer",
+  "arm": "edited",
+  "run": 1
+ },
+ "h242861": {
+  "scenario": "video",
+  "arm": "current",
+  "run": 2
+ },
+ "h344989": {
+  "scenario": "writer",
+  "arm": "prompt",
+  "run": 2
+ },
+ "h920359": {
+  "scenario": "writer",
+  "arm": "edited",
+  "run": 3
+ },
+ "h154647": {
+  "scenario": "video",
+  "arm": "edited",
+  "run": 1
+ },
+ "h582996": {
+  "scenario": "writer",
+  "arm": "prompt",
+  "run": 1
+ },
+ "h846935": {
+  "scenario": "video",
+  "arm": "prompt",
+  "run": 1
+ },
+ "h841730": {
+  "scenario": "video",
+  "arm": "current",
+  "run": 1
+ },
+ "h167902": {
+  "scenario": "writer",
+  "arm": "edited",
+  "run": 2
+ },
+ "h492787": {
+  "scenario": "video",
+  "arm": "prompt",
+  "run": 2
+ },
+ "h590902": {
+  "scenario": "video",
+  "arm": "current",
+  "run": 3
+ },
+ "h940869": {
+  "scenario": "writer",
+  "arm": "current",
+  "run": 2
+ },
+ "h675938": {
+  "scenario": "writer",
+  "arm": "prompt",
+  "run": 3
+ }
+}
