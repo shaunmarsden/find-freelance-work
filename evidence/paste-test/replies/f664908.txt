@@ -1,0 +1,50 @@
+You've already answered most of my starting questions. Here's what I have:
+
+- Can deliver: WordPress theme setup, page edits, WPForms contact forms, basic SEO page titles. No PHP, no WooCommerce, no payments.
+- Hours: about 6 a week, remote only.
+- Minimum pay: £20 an hour.
+- Won't work on: gambling or adult sites.
+
+I still need two things:
+1. Where are you based? You're quoting in pounds so I'm guessing the UK, but please confirm. It affects which platforms suit you and how you handle tax.
+2. Is the £20 before or after platform fees? Most freelance marketplaces take a cut of what you earn, so if you need £20 in your pocket, you'll have to aim higher on the platform.
+
+I can't open those links or check that any of these projects is still open. I'm judging them only on the text you pasted.
+
+---
+
+1. Contact form fix, Hartley Joinery: APPLY
+Why: It works out at about £30 an hour (£90 for 3 hours), it uses skills you already have, and it fits easily into two weeks at 6 hours a week. One caution: when a form stops sending email after a hosting move, the cause is usually email delivery rather than the form. The usual fix is an SMTP plugin such as WP Mail SMTP, and sometimes DNS records too. You don't need PHP for that, but it might take longer than they think.
+Next step: Before you agree the price, ask them which email provider they use and whether they can change DNS records or give you access. If the fix needs DNS changes they can't make, agree in writing that the £90 covers setting up the plugin and the three text updates.
+
+2. Custom checkout plugin: SKIP
+Why: It needs PHP and WooCommerce, which you've said you don't do, and the payment side is risky to learn on a client's live shop. A one-week deadline makes it worse.
+Next step: None. Leave it.
+
+3. Cafe website refresh, Bramble Cafe: MAYBE
+Why: The work suits you well (page updates and photos), but there's no budget and no timeline, so I can't tell whether it meets your £20 an hour. Ten pages plus photos could take something like 5 to 10 hours, depending on how much changes on each page.
+Next step: Before you create an account on their platform, check that the platform is a real, established site and not a link you can't verify. Then ask them two questions: what budget they have in mind, and whether they'll supply the photos and wording. Quote a fixed price that works out at £20 an hour or more for your estimated hours.
+
+4. WordPress tweaks for a casino review site: SKIP
+Why: It's a gambling site, which you've ruled out. The good rate (£35 an hour) doesn't change that.
+Next step: None. If you see more listings like this, filter them out early so they don't tempt you.
+
+5. Product page updates, Fennick Home: SKIP at this price
+Why: £100 for their own estimate of 10 hours is £10 an hour, half your minimum. And "product pages" may mean a WooCommerce shop. Editing existing products is simpler than setting WooCommerce up, but you haven't worked with it yet.
+Next step: If you want it anyway, send one counter-offer: either £200 for all 20 pages, or £100 for 10 pages. Also ask whether the products are in WooCommerce. If they won't move on price, walk away.
+
+6. WordPress help (reposted list): UNVERIFIED
+Why: You can't see the original project, and the link is dead. You don't know who posted it or what the work is. "£300" with no details is also a common pattern in scam reposts.
+Next step: Don't send personal details or apply through the repost. If you can find the original poster on a platform you trust, judge it then. If you can't, move on.
+
+---
+
+Where to look
+
+- People you've already worked with. Your four friends' businesses are your best source. Ask each one for a short testimonial and whether they know anyone who needs help. Referrals don't charge fees and come with trust built in.
+- General freelance marketplaces like Upwork and PeoplePerHour (UK-focused) have plenty of small WordPress jobs like 1, 3 and 5. Check each site's current fees before you set your rates.
+- Fiverr works the other way round: you list a fixed service, for example "fix your WordPress contact form" or "update up to 5 pages", and buyers come to you. That suits a fixed 6 hours a week.
+- Local networks: local business Facebook groups, your chamber of commerce, and small trade businesses near you. Small local firms often need the exact work you do.
+- Skip developer-only platforms like Codeable for now. They expect PHP skills.
+
+On a 6-hour week, Hartley (about 3 hours) plus Bramble (if the price is right) would fill your next couple of weeks. Paste in more projects as you find them and I'll sort them the same way.

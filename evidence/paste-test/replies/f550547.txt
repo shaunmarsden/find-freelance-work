@@ -1,0 +1,23 @@
+Short answer: go for Hartley Joinery. Bramble Cafe might be worth it once you know the budget. Skip the rest.
+
+I haven't opened any of the links. Everything below comes from the text you pasted, so check each advert is still open before you reply.
+
+**1. Contact form fix, Hartley Joinery** (https://projects.example/p/40211)
+Pay: £90 fixed
+Verdict: **APPLY**
+Why: You know WPForms and page editing, it's remote, and you get a staging copy to work on. If their three-hour estimate is right, that's about £30 an hour. It still pays £20 an hour if the job takes four and a half hours. Two weeks at six hours a week gives you plenty of time.
+What to check next: The email fix is the part you haven't done before. When a form stops sending after a hosting move, the usual cause is the email settings, not the form. The common fix is an email-sending plugin such as WP Mail SMTP, and sometimes the email settings on their domain also need changing. Before you commit, ask: "Will I have access to the email or domain settings, or just the WordPress admin?" If the fix needs settings only they can reach, it could take longer than three hours.
+
+**2. Cafe website refresh, Bramble Cafe** (https://projects.example/p/40252)
+Pay: not stated ("negotiable")
+Verdict: **MAYBE**
+Why: Updating pages and adding photos is exactly the sort of work you've done. But there's no budget and no timeline, and you'd have to create an account on their platform before you could even apply.
+What to check next: Guess the hours first. Ten pages plus photos could easily take 5 to 10 hours, which means it should pay at least £100 to £200. Only sign up for the platform if you're happy to, and ask about budget early so you don't spend time on a job that pays too little.
+
+**Skip these:**
+- **Custom checkout plugin (SKIP):** It needs PHP and WooCommerce, and you've done neither. It's also due in one week, and you only have six hours.
+- **Casino review site (SKIP):** The pay is good, but it's gambling, which you said you won't do.
+- **Product page updates, Fennick Home (SKIP):** £100 for their own 10-hour estimate is £10 an hour, half your minimum. You could offer to do it for about £200, but at the advertised price it doesn't work.
+- **WordPress help, £300 (UNVERIFIED):** The original page is gone and the repost has no details about the work, the client or how to apply. Ignore it unless you find the original advert.
+
+Want me to draft a short reply to Hartley Joinery? It would stick to what you've actually done and include the access question above.

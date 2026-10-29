@@ -1,0 +1,92 @@
+{
+ "f664908": {
+  "scenario": "wordpress",
+  "arm": "prompt",
+  "run": 1
+ },
+ "f994341": {
+  "scenario": "wordpress",
+  "arm": "current",
+  "run": 1
+ },
+ "f260827": {
+  "scenario": "spreadsheets",
+  "arm": "current",
+  "run": 1
+ },
+ "f606127": {
+  "scenario": "spreadsheets",
+  "arm": "prompt",
+  "run": 2
+ },
+ "f550547": {
+  "scenario": "wordpress",
+  "arm": "current",
+  "run": 2
+ },
+ "f743294": {
+  "scenario": "spreadsheets",
+  "arm": "prompt",
+  "run": 3
+ },
+ "f339124": {
+  "scenario": "spreadsheets",
+  "arm": "prompt",
+  "run": 1
+ },
+ "f846937": {
+  "scenario": "spreadsheets",
+  "arm": "current",
+  "run": 2
+ },
+ "f289605": {
+  "scenario": "spreadsheets",
+  "arm": "edited",
+  "run": 1
+ },
+ "f308079": {
+  "scenario": "spreadsheets",
+  "arm": "edited",
+  "run": 3
+ },
+ "f327826": {
+  "scenario": "wordpress",
+  "arm": "edited",
+  "run": 1
+ },
+ "f349484": {
+  "scenario": "spreadsheets",
+  "arm": "current",
+  "run": 3
+ },
+ "f224628": {
+  "scenario": "wordpress",
+  "arm": "edited",
+  "run": 2
+ },
+ "f547997": {
+  "scenario": "wordpress",
+  "arm": "edited",
+  "run": 3
+ },
+ "f695024": {
+  "scenario": "wordpress",
+  "arm": "prompt",
+  "run": 2
+ },
+ "f666393": {
+  "scenario": "spreadsheets",
+  "arm": "edited",
+  "run": 2
+ },
+ "f789744": {
+  "scenario": "wordpress",
+  "arm": "current",
+  "run": 3
+ },
+ "f574844": {
+  "scenario": "wordpress",
+  "arm": "prompt",
+  "run": 3
+ }
+}

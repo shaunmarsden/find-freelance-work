@@ -1,0 +1,29 @@
+Thanks, that's everything I need. I've judged these on what you pasted in. I haven't opened the links, so check that each advert is still open before you reply.
+
+Short answer: Hartley Joinery is the one worth chasing. Bramble Cafe could become worth it. Skip the rest.
+
+**1. Contact form fix, Hartley Joinery** (https://projects.example/p/40211)
+Pay: £90 fixed
+Verdict: **MAYBE**, and your best option
+Why: The page text edits match what you've already done, and you know WPForms. They're giving you a staging copy, the deadline is two weeks, and it's remote. If their three-hour guess is right, it works out at £30 an hour. It would still be £20 an hour if it took four and a half hours. The catch is the email problem. When a form stops sending after a hosting move, it's usually a mail delivery setting, not the form itself. Fixing that can mean setting up an SMTP plugin or changing the domain's DNS records, and you haven't done that before. It might take an hour or it might drag on.
+Check next: Ask who controls the domain and email settings and whether you'd get access to them. Be honest that you've set up WPForms before but haven't fixed delivery after a host move. If they're happy with that, apply.
+
+**3. Cafe website refresh, Bramble Cafe** (https://projects.example/p/40252)
+Pay: not stated ("negotiable")
+Verdict: **MAYBE**
+Why: Updating about ten pages and adding photos is exactly your kind of work. But with no budget and no timeline, there's no way to tell if it pays £20 an hour or fits into six hours a week. You'd also need to make an account on their platform before you can even ask.
+Check next: Only sign up if you're happy to. Then ask for a budget and timeline before you quote. Ten pages plus photos could easily take 8 to 12 hours, so anything under about £200 falls short of your rate.
+
+**5. Product page updates, Fennick Home** (https://projects.example/p/40278)
+Pay: £100 fixed
+Verdict: **SKIP**
+Why: By their own estimate of 10 hours, that's £10 an hour, half your minimum. Ten hours in two weeks would also use almost all of your 12 hours. And "product pages" might mean a WooCommerce shop, which you haven't used.
+Check next: Only worth a reply if they'd go to about £200. If you do reply, ask whether the pages are in WooCommerce.
+
+**2. Custom checkout plugin** – **SKIP**. It needs PHP and WooCommerce, which you've said you don't do, and the one-week deadline is far beyond six hours.
+
+**4. Casino review site** – **SKIP**. The pay is good, but it's gambling, which you've ruled out.
+
+**6. "WordPress help, £300"** – **UNVERIFIED**. The original page has gone, so there's no way to know who posted it, what the work is or whether it's still open. Ignore it unless you find the original advert.
+
+Would you like me to draft a short message to Hartley Joinery? I'd keep to what you've really done and include the question about the email settings.

@@ -1,0 +1,21 @@
+I've gone through all six using what you pasted. I haven't opened the links, so I'm going on what the adverts say, not checking them. In short: one is worth going for, one is worth a question, and four you should skip.
+
+**1. Contact form fix, Hartley Joinery** (https://projects.example/p/40211)
+- Pay: £90 fixed
+- Verdict: **MAYBE, and the best of the six**
+- Why: The page text edits are exactly what you've done before. They give you a staging copy, the two-week deadline fits your six hours a week, and if their three-hour estimate is right it works out at about £30 an hour. The catch is the form. When a form stops sending after a hosting move, the problem is usually how the new host sends email, not the form itself. The usual fix is an email-sending plugin such as WP Mail SMTP, and sometimes it means changing domain (DNS) settings. You've built WPForms forms, but you haven't fixed email delivery, so the three hours could easily become six or more. At six hours, £90 is £15 an hour.
+- Check next: Ask which host they moved to, and whether you'll get access to their email or domain settings if you need it. If you're happy to learn the email side, perhaps on a test site first, this is worth applying for.
+
+**3. Cafe website refresh, Bramble Cafe** (https://projects.example/p/40252)
+- Pay: not stated ("negotiable")
+- Verdict: **MAYBE**
+- Why: Updating about ten pages and adding photos matches your experience well. But there's no budget and no timeline, and you'd have to create an account on their platform before you can even ask.
+- Check next: Only sign up if you're comfortable with that platform. Then ask for their budget and deadline before you spend time on a proposal. Ten pages plus photos could take 8 to 15 hours depending on how much is changing, so you'd want at least £160 to £300 for it.
+
+**Skip these:**
+- **5. Fennick Home product pages: SKIP.** It's £100 for their own estimate of 10 hours, which is £10 an hour, half your minimum. "Product pages" may also mean WooCommerce product listings, which you haven't used. It's only worth a second look if they'd pay around £200.
+- **2. Custom checkout plugin: SKIP.** It needs PHP, WooCommerce and payments, none of which you've done, and one week is too short at six hours a week.
+- **4. Casino review site: SKIP.** The pay is good, but it's gambling, which you said you won't do.
+- **6. "WordPress help, £300": UNVERIFIED.** The original page is gone, and a repost tells you nothing about the work, the client or whether it's still open. Leave it unless you find the original advert.
+
+**My suggestion:** Reply to Hartley Joinery first and ask about the hosting and email access. If you'd like, I can draft a short pitch based on your four friends' sites and the WPForms work, with that question included. I won't send anything; you'd send it yourself.

@@ -1,0 +1,42 @@
+You've already answered my starting questions, so here's what I'm working from:
+
+- What you can deliver: WordPress sites using existing themes, page edits, WPForms contact forms, basic SEO page titles. No PHP, no WooCommerce setup, no online payments.
+- Location and hours: remote only, about 6 hours a week.
+- Minimum pay: £20 an hour.
+- Won't work for: gambling or adult sites.
+
+I haven't opened any of the links. I'm going only on what you pasted.
+
+1. Contact form fix, Hartley Joinery: APPLY
+Reason: It fits what you already do. £90 for their estimate of 3 hours is £30 an hour, and two weeks gives you 12 hours of your time. One risk: when a form stops sending after a hosting move, the problem is usually the new host's email setup, not the form. The usual fix is an SMTP plugin, which may need access to their email account or domain settings. If it drags on to 5 or 6 hours, your rate drops towards £15 to £18.
+Next step: In your application, ask who manages their email and domain and whether you'll be able to get into those settings. Say that the £90 covers diagnosing and fixing the form plus the three page edits, and that anything beyond the email settings will be agreed first.
+
+2. Custom checkout plugin: SKIP
+Reason: It needs PHP and WooCommerce, which you don't do, and the one-week deadline is too short at 6 hours a week.
+Next step: None. Move on.
+
+3. Cafe website refresh, Bramble Cafe: MAYBE
+Reason: The work suits you (about ten page edits and new photos), but there's no budget and no timeline, so you can't tell yet whether it meets your £20 an hour. Being asked to make an account on "our project platform" also needs checking before you hand over any details.
+Next step: Find the cafe's own website or phone number and confirm that the listing and the platform are really theirs. If they are, quote a fixed price based on your hours (for example 6 to 8 hours at £20 to £25 an hour, so £120 to £200) and ask when they need it done.
+
+4. WordPress tweaks for a casino review site: SKIP
+Reason: It's a gambling site, which you've ruled out. The pay (£35 an hour) doesn't change that.
+Next step: None. Move on.
+
+5. Product page updates, Fennick Home: SKIP
+Reason: £100 for 10 hours is £10 an hour, half your minimum. Product pages may also be WooCommerce, which you haven't used, although editing existing product text is much easier than setting up a shop.
+Next step: If you like the client, reply once with a counter-offer of £200 for the 20 pages and SEO titles, and check the pages are just text and titles. If they won't go to £200, leave it.
+
+6. WordPress help, reposted listing: UNVERIFIED
+Reason: There's no description, no client name, and the original link doesn't work. You can't tell what the work is, who it's for, or whether it still exists.
+Next step: Don't contact anyone through the repost. If you can find the original listing on the site it came from, judge it then. If you can't, ignore it.
+
+Summary: go for Hartley Joinery now. Check Bramble Cafe is genuine and ask for their budget. Counter Fennick Home once at £200 or drop it. Skip the rest.
+
+Places to look (I can't browse these, so check their current fees and rules yourself):
+- Your four existing clients. Ask each for a short testimonial and whether they know another small business that needs help. Referrals are often the best-paid small jobs.
+- PeoplePerHour and Upwork. Both have plenty of small WordPress jobs from UK clients. Platform fees come off your pay, so add them before you check a job against your £20.
+- Fiverr, where you list fixed-price packages, such as "fix your WordPress contact form" or "update 5 pages". These suit someone with 6 hours a week.
+- Local business groups (Facebook groups, your local chamber of commerce, coworking spaces). Small firms often find someone this way instead of through platforms.
+
+If you paste more projects, I'll sort them the same way.

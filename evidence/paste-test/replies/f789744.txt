@@ -1,0 +1,33 @@
+Short answer: go for Hartley Joinery. Bramble Cafe is worth a question first. Skip the rest.
+
+I haven't opened any of the links. I've judged each one only on the text you pasted, so check that a project is still open before you put time into it.
+
+**1. Contact form fix, Hartley Joinery** (https://projects.example/p/40211)
+- Pay: £90 fixed.
+- Verdict: **APPLY**
+- Why: Editing page text and working with WPForms is what you've already done. The client thinks it's about three hours, which works out at roughly £30 an hour. That's above your £20 minimum, and it fits easily into two weeks at six hours a week. The one part you haven't shown you can do is fixing emails that stopped after a hosting move. That's usually a settings job, often done by adding a free plugin such as WP Mail SMTP, and it doesn't need PHP. Still, it's new to you, and if it drags on, your hourly rate falls.
+- Check next: Will you get access to the live site's email settings, or only the staging copy? Many staging copies have email turned off, so you may not be able to test the fix there. Ask what email address or service the form sends from. Be honest that you've set up WPForms but haven't fixed this exact problem before.
+
+**2. Cafe website refresh, Bramble Cafe** (https://projects.example/p/40252)
+- Pay: not stated ("negotiable").
+- Verdict: **MAYBE**
+- Why: Updating about ten pages and adding photos fits your skills well. But there's no budget and no timeline, so you can't tell yet whether it pays £20 an hour or fits your six hours. You also have to create an account on their platform to apply, so this isn't a quick, free application.
+- Check next: Before you sign up, see whether you can ask about budget and deadline another way. A rough guide: ten pages plus photos could take 5 to 10 hours, so anything under about £100 to £200 probably isn't worth it. Read the platform's terms and fees before you create an account.
+
+**3. Product page updates, Fennick Home** (https://projects.example/p/40278)
+- Pay: £100 fixed.
+- Verdict: **SKIP**, unless they'll pay more
+- Why: The work fits your skills. But by their own estimate of 10 hours, it pays about £10 an hour, half your minimum. Ten hours would also use most of your 12 available hours over the two weeks.
+- Check next: If you want it, you could offer to do it for around £200. Also ask whether these are WooCommerce product pages. You haven't used WooCommerce, though editing existing products is simpler than setting a shop up.
+
+**4. WordPress help needed** (https://listings.example/r/88812)
+- Pay: £300 according to the repost. I can't confirm that.
+- Verdict: **UNVERIFIED**
+- Why: The original page gives a "page not found" error, so there's no way to check the work, the client, whether it's still open, or how to apply. "£300, remote" on a reposted list isn't enough to act on.
+- Check next: Leave it unless you can find the original advert somewhere you can actually read it.
+
+**Clear skips:**
+- **Custom checkout plugin (#2 in your list), SKIP:** It needs PHP, WooCommerce and a payment checkout, all things you've said you don't do, and it's due in one week.
+- **Casino review site (#4 in your list), SKIP:** You said you won't work on gambling sites. The £35 an hour doesn't change that.
+
+**Next step:** Want me to draft a short pitch for Hartley Joinery? I'd base it only on your four real sites and WPForms experience, and finish with one question about access to the email settings.
