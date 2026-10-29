@@ -1,16 +1,22 @@
-# How Do I Find Freelance Work?
+# Find Freelance Work
 
-**Free AI skill to help you assess freelance jobs and make a sensible search plan.**
+A free AI skill that helps you judge freelance projects against what you can actually do, the hours you have and the pay you need.
 
-**[See an illustrated example](examples/fictional-project-review.md)** | **[Read the skill instructions](SKILL.md)**
+Paste in a project advert and it tells you **APPLY**, **MAYBE**, **SKIP** or **UNVERIFIED**, with the reason and one practical next step. It can also suggest legitimate places to look, and help you write a short, honest reply to a project that fits. It won't apply, send messages or sign you up to anything without your say-so.
 
-> **Important:** This is an AI *skill*, not a standalone app or job-search website. Its usable functionality comes from a compatible AI agent following the instructions in `SKILL.md`. It has no independent search engine, dashboard, access to private marketplaces or guaranteed job feed.
+**[See a worked example](examples/fictional-project-review.md)**
 
-## Try it now
+## Use it
 
-**Option 1, easiest: Ask an AI assistant**
+The quickest way needs no install.
 
-Copy this into an assistant:
+1. Open [SKILL.md](SKILL.md), click **Raw**, and copy the whole file.
+2. Paste it into any AI chat (ChatGPT, Claude, Gemini, Copilot or similar).
+3. Underneath, say what work you can offer, then paste a project advert. For example:
+
+   > I've built a few WordPress sites for friends and can spend six hours a week. Is this project worth applying for?
+
+If you'd rather not paste the whole skill, this shorter prompt does a similar job, though I haven't tested it against the skill:
 
 ```text
 Help me find freelance work. Start by asking what I can actually deliver,
@@ -20,35 +26,28 @@ or UNVERIFIED, with a reason and one practical next step. Don't invent
 open jobs or pretend to browse sites you can't access.
 ```
 
-**Option 2, install the skill:** Download the repository using **Code → Download ZIP** and give `SKILL.md` (plus `agents/openai.yaml`) to a compatible AI agent that supports reusable skills. The dedicated Agensi ZIP is distributed separately, and that is the better route for buyers. Do not assume every chatbot can install skills.
+### Or install it
 
-## What you can actually use it for
+If you use an AI tool that loads skills from a folder, such as Claude Code or Codex, download this repository (the green **Code** button, then **Download ZIP**) and install the folder. `agents/openai.yaml` holds a display name, short description and starter prompt for tools that read it.
 
-1. Tell it the services you can offer and your limits.
-2. Ask it to suggest legitimate places to look.
-3. Paste an actual job advert or an accessible URL.
-4. Receive a practical **APPLY / MAYBE / SKIP / UNVERIFIED** review of skills, pay, timeline, risks and missing details.
-5. Ask for a short, truthful response to the project, if it fits.
+## What it is good for, and what it isn't
 
-The **reliable core is reviewing listings you provide**. Public-web discovery may be attempted where the agent can browse and platform rules permit it, but is not a dependable feature. In a feasibility test of eleven source families and five example records, there were **zero qualified actionable opportunities** for the fictional freelancer. We do not present this as an automated job-finding system.
+**Good for: judging adverts you bring.** It checks the work asked for against your real experience, the deadline against your hours, and the pay against the likely work, and it says what is unknown.
 
-## Example result
+**Not reliable for: finding open projects on its own.** If your AI tool can search the web, the skill may look, but it will tell you when it can't check a page. In an early feasibility check, which isn't published here, there were no suitable open projects for a made-up freelancer across eleven kinds of source. So treat it as a second opinion on adverts you find, not a job feed.
 
-See [fictional-project-review.md](examples/fictional-project-review.md). This is a **made-up example of the output format**, not a real vacancy or proof of live operation.
+It doesn't promise earnings, and it won't call a project vetted or guaranteed.
 
-## What's in this repository?
+## Things to know
 
-- `SKILL.md`: the operational instructions an AI agent follows
-- `agents/openai.yaml`: descriptive skill metadata
-- `examples/fictional-project-review.md`: a worked example
-- `LICENSE`: MIT open-source licence
+- **Leave out private details.** Don't paste client data, logins or anything confidential from an employer.
+- **Check before you apply.** Adverts close and change. Read the original listing and its terms yourself.
+- **It only does what your AI tool can do.** Browsing and reading attachments depend on the tool, not the skill.
 
-**No executable app, extension, crawler, Python automation or job-feed backend is included.** They were not built and are not implied by this product.
+## Looking for a job instead?
 
-## Privacy and limitations
-
-Do not share private client data, login credentials or confidential employer information. No applications are sent and no accounts are accessed automatically. Browsing, installation and attachment support depend on the AI host. Always verify availability and terms directly.
+[Find My Next Job](https://github.com/shaunmarsden/find-my-next-job) does the same kind of sorting for employed roles, against your hours, location and minimum pay.
 
 ## Licence
 
-MIT, copyright 2026 Shaun Marsden.
+MIT. See [LICENSE](LICENSE).
