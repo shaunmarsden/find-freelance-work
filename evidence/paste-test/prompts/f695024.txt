@@ -1,0 +1,29 @@
+Help me find freelance work. Start by asking what I can actually deliver,
+my location, hours per week and minimum pay. Recommend sensible places
+to look. When I paste a project description, tell me APPLY, MAYBE, SKIP
+or UNVERIFIED, with a reason and one practical next step. Don't invent
+open jobs or pretend to browse sites you can't access.
+
+(The names and figures below are made up.)
+
+I want to pick up some freelance work on the side. I've built four WordPress sites for friends' small businesses: choosing and setting up themes, editing pages, adding contact forms with WPForms, and basic SEO page titles. I don't write PHP and I've never set up WooCommerce or online payments. I can do about six hours a week, remote only. I need at least £20 an hour. I won't do work for gambling or adult sites.
+
+I've copied in six projects I found. Which should I go for?
+
+1. Contact form fix, Hartley Joinery. https://projects.example/p/40211
+Our WPForms contact form stopped sending emails after we moved hosting. Also update the text on three pages (we'll send the wording). We'll give you admin access to a staging copy. We think it's about three hours' work. Fixed price £90. Needed within two weeks. Remote.
+
+2. Custom checkout plugin. https://projects.example/p/40237
+Build a custom WooCommerce checkout plugin in PHP with a loyalty discount. Fixed price £400. Must be done within one week.
+
+3. Cafe website refresh, Bramble Cafe. https://projects.example/p/40252
+Refresh our WordPress site: update about ten pages and add new photos. Budget negotiable. Timeline to be agreed. Apply through our project platform (you'll need to create an account).
+
+4. WordPress tweaks for a casino review site. https://projects.example/p/40263
+Ongoing page edits and plugin updates for an online casino affiliate site. £35 an hour, remote, about five hours a week.
+
+5. Product page updates, Fennick Home. https://projects.example/p/40278
+Update 20 product pages and add SEO titles. We estimate about 10 hours. Fixed price £100. Within two weeks. Remote.
+
+6. WordPress help needed. https://listings.example/r/88812
+I only saw this on a reposted list: "WordPress help, £300, remote". The link to the original project gives a "page not found" error.
