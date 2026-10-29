@@ -1,0 +1,36 @@
+You've already told me what I'd have asked: you can do Excel (formulas, pivot tables), clean-up work and Xero data entry. You're not a qualified bookkeeper, you have no AAT and you haven't run payroll. You're remote or in Cardiff, have about 10 hours a week and need at least £18 an hour. So here's my verdict on each project.
+
+One caveat first: I haven't opened any of those links and can't check them. I'm judging only the text you pasted. Before you commit to anything, check that the poster has a real business and a track record.
+
+1. Sales spreadsheet tidy-up, Owl & Ivy Gifts: APPLY
+Reason: It's exactly what you've done for five years, it's remote, and it fits your hours. £150 for an estimated six hours is £25 an hour. The risk is that it's a fixed price on a "messy" spreadsheet. If it takes more than about 8 hours, you drop below £18 an hour.
+Next step: Before you agree the price, ask to see the spreadsheet or a sample of it, and agree in writing what "done" means (for example, cleaned data plus one pivot summary by month and product, with one round of changes). Then you'll know whether six hours is realistic.
+
+2. Monthly payroll, Glanfa Cafe: SKIP
+Reason: They require AAT and you don't have it. You've also never run payroll. Payroll mistakes cause real problems for staff and HMRC, so this isn't a job to learn on.
+Next step: None for this job. If payroll interests you later, look at AAT or a payroll course first.
+
+3. Xero reconciliation, Penarth Community Garden: MAYBE
+Reason: You know Xero, it's remote and four hours a month fits easily. But reconciling accounts is a step beyond data entry, and the rate isn't stated, so it may not reach £18. Charities often have small budgets. One more thing to check: in the UK, doing bookkeeping for clients as a business usually means you must register with a body for anti-money laundering supervision (HMRC, if you're not a member of a professional body).
+Next step: Reply asking for the hourly rate and what "reconcile" means for them (matching bank transactions in Xero, or fixing past errors too). Say honestly that you have Xero data-entry experience but aren't a qualified bookkeeper. Before you accept, check HMRC's guidance on whether you'd need to register for money-laundering supervision.
+
+4. Data entry, no company named: SKIP
+Reason: £8 an hour is less than half your minimum, and 20 hours a week is double what you have. No company name is a warning sign too.
+Next step: None. Don't spend time negotiating this up.
+
+5. Spreadsheet automation, "high pay": SKIP
+Reason: This has the signs of a scam. They charge you a £20 "registration fee" to reach a client, they give no company name or real details, they want to move you to WhatsApp, and "great rates" is vague. Real clients don't charge freelancers to apply.
+Next step: Don't pay, and don't message them on WhatsApp. Report the listing to the site.
+
+So: apply for Owl & Ivy now, ask Penarth Community Garden the two questions, and ignore the other three.
+
+Places worth looking:
+- PeoplePerHour and Upwork. Search for "Excel", "pivot table", "spreadsheet clean-up", "data entry Xero". PeoplePerHour has many UK clients. Expect low bids at first. Set your own rate floor and don't drop below it.
+- LinkedIn. Put "Freelance Excel and admin support, Cardiff/remote" in your headline and tell people you've worked with before. Past contacts are often the quickest first client.
+- Local Cardiff and Vale businesses directly: small shops, cafes, trades and charities often have messy spreadsheets and no one to fix them. A short message offering a fixed-price clean-up works well.
+- Local business networks and Facebook groups for Cardiff small businesses.
+- Indeed and Reed, filtered for "freelance", "contract" or "temporary" remote admin and Excel roles.
+
+Two practical things before you start: register as self-employed with HMRC if you haven't already, and check your part-time job's contract for any rules about second jobs.
+
+If you paste in more listings, I'll go through them the same way.

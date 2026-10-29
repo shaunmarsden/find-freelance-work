@@ -1,0 +1,58 @@
+You've already answered my opening questions, so here's what I'm working from:
+
+- **What you can deliver:** Excel spreadsheets with formulas and pivot tables, and data entry in Xero. You're not a qualified bookkeeper, you don't have AAT, and you've never run payroll.
+- **Location:** remote, or in person in Cardiff.
+- **Hours:** about 10 a week, around your part-time job.
+- **Minimum pay:** £18 an hour.
+
+I haven't opened any of the links. I can't check that these listings are real or still open, so I've judged each one only on the text you pasted.
+
+---
+
+**1. Sales spreadsheet tidy-up, Owl & Ivy Gifts: APPLY**
+
+Reason: This is exactly your skill set (cleaning data and building a pivot table by month and product). £150 for their estimate of six hours works out at £25 an hour, and it fits easily into two weeks at 10 hours a week. The only risk is the fixed price. If the job takes more than about 8 hours, you'll be earning less than £18 an hour.
+
+Next step: Before you agree the price, ask them for a sample of the spreadsheet (or a screenshot with the data hidden) and how many rows and products it has. Then write the scope into your reply, for example: "£150 covers the tidy-up and one pivot summary by month and product, with one round of changes."
+
+**2. Monthly payroll, Glanfa Cafe: SKIP**
+
+Reason: They require AAT, which you don't have, and you've never run payroll. Mistakes in payroll affect people's wages and HMRC filings, so this isn't one to learn on the job.
+
+Next step: None for this one. If payroll interests you later, look at the AAT payroll qualifications first.
+
+**3. Xero reconciliation, Penarth Community Garden (charity): MAYBE**
+
+Reason: You know Xero, and four hours a month fits your time. But reconciling accounts is bookkeeping work, not just data entry, and you've said you aren't a bookkeeper. They also haven't given a rate, and charities often expect low pay or volunteers.
+
+Next step: Send a short message asking what the work involves (matching bank transactions to invoices that are already in Xero, or fixing errors and preparing the accounts?) and what they budget per hour. Be clear about your background: "I've done data entry in Xero for five years but I'm not a qualified bookkeeper." Only go ahead if it's the simpler matching work and the rate is at least £18.
+
+**4. Data entry (no client named): SKIP**
+
+Reason: £8 an hour is less than half your minimum, and 20 hours a week is double the time you have. There's also no client name, which makes it harder to know who you'd be working for.
+
+Next step: None. If a data-entry listing names the client and pays at least £18 an hour, that one is worth a look.
+
+**5. Spreadsheet automation, "high pay": SKIP**
+
+Reason: This has the usual signs of a scam: no client, no scope and no rate, a push to move to WhatsApp, and a fee you have to pay before you can even speak to the client. Real clients don't charge freelancers to apply.
+
+Next step: Don't pay the fee or message them on WhatsApp. If you found it on a gig site, report the listing.
+
+---
+
+**Summary:** Apply for number 1 now. Send the questions for number 3. Skip the other three.
+
+**Places worth looking**
+
+- **Freelance sites:** PeoplePerHour (UK-based, lots of small fixed-price Excel jobs) and Upwork. Both charge fees, so price with that in mind.
+- **Local small businesses:** Cardiff business groups on Facebook and LinkedIn, local networking events, and direct contact with shops and cafes you already know. Many small firms have messy spreadsheets but would never post a job about it.
+- **Your own network:** former colleagues and managers from your admin roles. Referrals often pay better and come with less competition.
+- **Charity work:** volunteering sites and local charity networks sometimes list paid admin support, but check the rate early (as with number 3).
+
+**Two practical points before you start**
+
+- Check your part-time job contract for anything about second jobs or working for competitors.
+- Freelance income goes through Self Assessment with HMRC. The first £1,000 a year of trading income is covered by the trading allowance. Above that, you'll need to register as self-employed.
+
+When you find more listings, paste them in and I'll sort them the same way.

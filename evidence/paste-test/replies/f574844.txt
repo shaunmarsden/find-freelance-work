@@ -1,0 +1,48 @@
+You've already answered most of my opening questions, so here's what I'm working from:
+
+- What you can deliver: WordPress setup with themes, editing pages, WPForms contact forms and basic SEO page titles. No PHP, no WooCommerce, no online payments.
+- Hours: about 6 a week, remote only.
+- Minimum pay: £20 an hour.
+- Won't take: gambling or adult sites.
+- Location: you didn't say. The £ suggests the UK. Can you confirm? It affects which platforms suit you and how you'd handle tax.
+
+I can't open any of those links, so I'm judging each project only on the text you pasted. Check the real listing before you apply.
+
+**1. Contact form fix, Hartley Joinery: APPLY**
+It's your exact skill set (WPForms plus page text edits), it's remote, and £90 for about 3 hours works out at £30 an hour. That's well above your minimum and fits inside one week of your hours. One risk: when a form stops sending email after a hosting move, the cause is usually the new host's mail settings, not the form. The fix is often an SMTP plugin such as WP Mail SMTP, and you can set that up without code. Sometimes, though, it needs DNS changes that only the business or the host can make.
+Next step: before you agree the price, ask them who manages their domain and email, and whether they can give you access to the SMTP or DNS settings if needed. Then agree in writing that the £90 covers diagnosing and fixing the form plus the three text updates.
+
+**2. Custom checkout plugin: SKIP**
+It needs PHP and WooCommerce, which you've said you don't do, and the one-week deadline leaves no time to learn.
+Next step: none. Move on.
+
+**3. Cafe website refresh, Bramble Cafe: MAYBE**
+The work fits you well, since it's editing pages and adding photos. But there's no budget and no timeline, so you can't tell yet if it meets your £20 an hour. Ten pages plus photos could easily take 6 to 10 hours, which is one to two weeks at your pace.
+Next step: before you create an account, check that the platform is a real, known site and not a lookalike. Then send a short message asking for their budget and deadline. Quote around £150 to £200 for the job (about 8 hours at £20 to £25) and only go ahead if they say yes.
+
+**4. WordPress tweaks for a casino review site: SKIP**
+The pay is good, but it's a gambling affiliate site, and you've ruled that out.
+Next step: none. Move on.
+
+**5. Product page updates, Fennick Home: SKIP**
+£100 for about 10 hours is £10 an hour, half your minimum. "Product pages" may also mean WooCommerce products, which you haven't used.
+Next step: if you'd still like it, reply once with a counter-offer of £200 and ask whether the pages are in WooCommerce. If they won't pay that, let it go.
+
+**6. WordPress help (reposted list): UNVERIFIED**
+There's no client, no description of the work and no working original listing, so there's nothing to judge. Reposted jobs with dead links are often expired, duplicated or scams.
+Next step: search the original platform for the listing yourself. If you can't find it, ignore it. Don't send details or pay anything through the reposted list.
+
+**What to do this week:** apply for Hartley Joinery and ask Bramble Cafe for their budget. Together they would fill your hours for the next couple of weeks.
+
+**Sensible places to look** (these are general suggestions, not open jobs I've checked):
+- **Your own network first.** Ask the four friends whose sites you built for a short testimonial and a referral. Small local businesses tend to trust a recommendation more than a profile.
+- **PeoplePerHour** is UK-based and has lots of small, fixed-price WordPress jobs like these.
+- **Upwork** is bigger, with more competition at first. Small fixed-price jobs help you build reviews.
+- **Fiverr** turns things round: you list a fixed offer, such as "I'll fix your WPForms contact form", and clients come to you.
+- **Local Facebook business groups and your chamber of commerce** are good for cafes and tradespeople who want someone nearby they can call.
+
+Avoid platforms aimed at senior developers (Codeable, for example) until you're happy writing PHP.
+
+If you're in the UK: the first £1,000 a year of side income is covered by the trading allowance. Above that you'll need to register for Self Assessment, so keep a simple record of what you earn.
+
+Paste the next batch whenever you find more and I'll go through them the same way.

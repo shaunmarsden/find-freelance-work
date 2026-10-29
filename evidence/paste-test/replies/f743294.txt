@@ -1,0 +1,44 @@
+You've already given me what I need, so I won't ask again:
+
+- **What you can deliver:** Excel spreadsheets with formulas and pivot tables, data cleaning and data entry, and data entry in Xero. You're not a bookkeeper, you don't have AAT and you haven't run payroll.
+- **Location:** remote, or in person in Cardiff
+- **Hours:** about 10 a week
+- **Minimum pay:** £18 an hour
+
+One thing first: I can't open those gigs.example links, so I've judged each project only on the text you pasted. Check the full listing before you apply.
+
+## Your five projects
+
+**1. Sales spreadsheet tidy-up, Owl & Ivy Gifts: APPLY**
+Reason: This is exactly your skill set, and £150 for about 6 hours works out at £25 an hour. It's remote and fits easily in two weeks of 10-hour weeks. The risk is that their 6-hour estimate is wrong and the data is messier than they think, which would push your real rate down.
+Next step: Before you agree the price, ask for a sample of the spreadsheet or roughly how many rows it has. Then confirm in writing exactly what you'll deliver: the cleaned sheet plus a pivot summary by month and product.
+
+**2. Monthly payroll, Glanfa Cafe: SKIP**
+Reason: The listing says AAT is required, you don't have it, and you've never run payroll. Payroll mistakes affect people's wages and tax, so this isn't one to stretch for.
+Next step: None for this job. If payroll interests you later, look into the AAT qualification and a payroll course.
+
+**3. Xero reconciliation, Penarth Community Garden: MAYBE**
+Reason: You know Xero, and 4 hours a month fits around your job. But "reconcile our Xero accounts" could mean simply matching bank transactions, which is within reach, or real bookkeeping work you'd be overstating yourself to take on. The rate is also unknown.
+Next step: Message them to ask what the work involves and what they'll pay. Say plainly that you have Xero data entry experience but aren't a qualified bookkeeper. Only go ahead if the work is bank matching and the rate is £18 an hour or more.
+
+**4. Data entry, no client named: SKIP**
+Reason: £8 an hour is less than half your minimum, and 20 hours a week is double what you have.
+Next step: None. Don't take low-paid work to "get started". It sets your rate low and fills the hours you need for better work.
+
+**5. Spreadsheet automation, "high pay": SKIP**
+Reason: A fee to "get access to the client", moving the conversation to WhatsApp, and vague promises of "great rates" are all common scam signs. Real clients don't charge you to work for them.
+Next step: Don't pay the fee. Report the listing to the site it's posted on.
+
+**Summary:** Apply to Owl & Ivy now. Message the Penarth garden with your questions. Skip the other three.
+
+## Where to look
+
+- **PeoplePerHour:** UK-based, with plenty of small fixed-price Excel and admin jobs like Owl & Ivy's.
+- **Upwork:** bigger, with more competition, but there's steady demand for Excel cleanup and pivot-table work. Filter by fixed price or hourly rate so you don't scroll past £8 jobs.
+- **Fiverr:** works the other way round. You post a fixed offer, such as "I'll tidy your spreadsheet and build a pivot summary", and clients come to you.
+- **People you already know:** former employers and colleagues from your admin jobs. They know your work, and for part-time freelancers this is often the best source.
+- **Local Cardiff businesses and charities:** Cardiff and Vale business groups, local Facebook business groups, and small charities often need admin help a few hours a month. The community garden is a good example.
+
+One tip: describe what you offer as a fixed outcome, such as "spreadsheet tidy-up and monthly summary", not as general "admin". It's easier for clients to buy, and it shows your Excel skills rather than putting you up against £8-an-hour data entry.
+
+If you paste in more projects, I'll sort them the same way.

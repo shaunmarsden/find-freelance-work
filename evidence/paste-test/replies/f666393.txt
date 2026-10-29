@@ -1,0 +1,32 @@
+Go for number 1. Number 3 is worth a question first. Skip the other three.
+
+I've worked only from the text you pasted, not the live pages. Before you reply to any of them, check on the site that the advert is still open and the details match.
+
+**1. Sales spreadsheet tidy-up, Owl & Ivy Gifts** (https://gigs.example/j/7731)
+Pay: £150 fixed price
+Verdict: **APPLY**
+Why: This is the work you've done for five years: tidying spreadsheets and building pivot tables. If it takes their estimate of six hours, that's £25 an hour. If it runs to eight hours you'd still get £18.75, so you have some room. Two weeks at ten hours a week is plenty of time.
+Check next: Ask to see the spreadsheet, or a sample of it, before you agree the price. "Messy" can mean anything. Agree what "done" means (which columns, which summaries) and how many rounds of changes are included, so the fixed price doesn't stretch to fifteen hours.
+
+**3. Xero reconciliation, Penarth Community Garden** (https://gigs.example/j/7752)
+Pay: not stated ("to be discussed")
+Verdict: **MAYBE**
+Why: Four hours a month fits easily around your job, and you know Xero. But you've done data entry in Xero, and reconciling accounts is a step beyond that: matching bank lines and sorting out the ones that don't match. Be honest about that difference. Also, a small charity may not pay anything near £18 an hour.
+Check next: Ask what reconciling involves for them (just matching bank feeds, or fixing past errors too?) and what rate they have in mind. If it's routine bank-feed matching and they'll pay £18 or more, it could be a good regular job. If they need someone to sort out their books, that's bookkeeper work, and you should say so.
+
+**2. Monthly payroll, Glanfa Cafe** (https://gigs.example/j/7745)
+Pay: £25 an hour
+Verdict: **SKIP**
+Why: It requires an AAT qualification and payroll experience, and you have neither. Payroll mistakes affect people's wages and tax, so this isn't one to stretch for.
+
+**4. Data entry** (https://gigs.example/j/7760)
+Pay: £8 an hour
+Verdict: **SKIP**
+Why: £8 is less than half your £18 minimum, and they want 20 hours a week when you have ten. There's no client name either.
+
+**5. Spreadsheet automation, "high pay"** (https://gigs.example/j/7768)
+Pay: not stated
+Verdict: **SKIP**
+Why: A £20 fee to "get access to the client" is a common scam sign. Real clients don't charge you to work for them. Vague "great rates", no project details and a move to WhatsApp are more warning signs. Don't pay the fee or share personal details.
+
+If you like, I can help you write a short message for the Owl & Ivy job. It would draw only on your real spreadsheet and pivot-table experience and ask them one question about the file.
